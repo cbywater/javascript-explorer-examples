@@ -1,0 +1,1 @@
+{"version":3,"sources":["symbol.js"],"names":[],"mappings":";;AAAA,IAAI,GAAG,GAAG,MAAM,EAAE,CAAC;;AAEnB,IAAI,GAAG,GAAG,EAAE,CAAC;;AAEb,GAAG,CAAC,GAAG,CAAC,GAAG,iBAAiB,CAAC","file":"symbolTranspiled.js","sourcesContent":["var key = Symbol();\n\nvar obj = {};\n\nobj[key] = \"scoped property\";\n"]}

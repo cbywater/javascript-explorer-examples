@@ -1,1 +1,3 @@
-Source code used in [this blog post](http://www.javascriptexplorer.com)
+# Javascript Explorer Examples
+
+This repo contains source code examples used on [javascriptexplorer.com](http://www.javascriptexplorer.com)
