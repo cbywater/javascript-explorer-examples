@@ -1,0 +1,1 @@
+{"version":3,"sources":["moduleExample2.js"],"names":[],"mappings":";;IAAQ,KAAK,WAAO,iBAAiB,EAA7B,KAAK;;;AAEb,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC","file":"moduleExample2.js","sourcesContent":["import {isOdd} from './moduleExample';\n\nconsole.log(isOdd(2));\n"]}

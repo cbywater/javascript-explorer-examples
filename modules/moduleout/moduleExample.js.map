@@ -1,0 +1,1 @@
+{"version":3,"sources":["moduleExample.js"],"names":[],"mappings":";;AAAA,IAAI,KAAK,GAAG,UAAA,MAAM;SAAI,MAAM,GAAG,CAAC,KAAK,CAAC;CAAA,CAAC;QAC/B,KAAK,GAAL,KAAK","file":"moduleExample.js","sourcesContent":["var isOdd = number => number % 2 === 1;\nexport {isOdd};\n"]}
